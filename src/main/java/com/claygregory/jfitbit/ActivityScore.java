@@ -14,7 +14,7 @@ import com.claygregory.common.data.TimestampedEvent;
  * 
  * @author Clay Gregory
  *
- */
+ */ 
 public class ActivityScore implements TimestampedEvent {
 
 	private long timestamp;
